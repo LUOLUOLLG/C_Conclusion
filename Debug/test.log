@@ -1,0 +1,5 @@
+﻿  源.cpp
+E:\VisualPlace\test\源.cpp(36,64): warning C4215: 使用了非标准扩展: 长浮点
+E:\VisualPlace\test\源.cpp(37,51): warning C4215: 使用了非标准扩展: 长浮点
+E:\VisualPlace\test\源.cpp(38,51): warning C4215: 使用了非标准扩展: 长浮点
+  test.vcxproj -> E:\VisualPlace\test\Debug\test.exe
